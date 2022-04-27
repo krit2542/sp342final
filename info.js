@@ -1,0 +1,6 @@
+var info = 
+[{"id":1,"name":"Her world tour in support of her seventh album, ALICIA, has been rescheduled for 2022. It was originally slated to launch in June 2020 but was postponed due to the coronavirus pandemic. Keys will kick off the European leg of the world tour on June 9, 2022, at Birmingham's Utilita Arena."},
+{"id":2,"name":"Pre-pandemic, Bangkok hosted countless concerts and music festivals. The city loved it, the artists loved it, the people loved it. It was a thing to count the number of concerts and/or music festivals you attended – the more, the better (aka the cooler you were). But, ever since the life-altering, world-changing COVID-19, Spotify has become the new concert and concert-goers have switched from shouting the lyrics with sweaty strangers to shouting the lyrics alone at home. Until now. "},
+{"id":3,"name":"The Future Nostalgia Tour is the fifth concert tour by English singer Dua Lipa, in support of her second studio album, Future Nostalgia"},
+{"id":4,"name":"Lisa Lalisa Manoban Blackpink Live performance"}
+]
